@@ -9,7 +9,7 @@ html,body{
     box-sizing: border-box;
 }
 body{
-  background:url('/back.jpg');
+  background:url('../back.jpg');
   background-size: cover;
   background-position: center;
   color: white;
